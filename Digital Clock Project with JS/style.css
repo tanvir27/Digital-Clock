@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: teal;
+  align-items: center;
+}
+.clock {
+  text-align: center;
+  padding-top: 120px;
+}
+.heading {
+  font-size: 40px;
+}
+.time {
+  display: inline;
+  font-size: 30px;
+}
